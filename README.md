@@ -1,6 +1,6 @@
 # goit-js-hw-02
 
-<!-- Гарна робота! 💪
+Гарна робота! 💪
 
 Час підбити підсумки і порефлексувати про те, що вже зроблено у модулі 2.
 
@@ -24,9 +24,9 @@
 Переконайся, що код відформатований за допомогою Prettier, а в консолі відсутні помилки і попередження під час відкриття живої сторінки завдання.
 Здай домашнє завдання на перевірку.
 
-Формат здачі: Домашня робота містить два посилання: на вихідні файли і робочу сторінку на GitHub Pages. -->
+Формат здачі: Домашня робота містить два посилання: на вихідні файли і робочу сторінку на GitHub Pages.
 
-<!-- Задача 1. Замовлення дроїдів
+Задача 1. Замовлення дроїдів
 
 Виконуй це завдання у файлі task-1.js
 
@@ -62,9 +62,9 @@ console.log(makeTransaction(10, 500, 5000)); // "You ordered 10 droids worth 500
 Виклик makeTransaction(3, 1000, 15000) повертає "You ordered 3 droids worth 3000 credits!"
 Виклик makeTransaction(10, 5000, 8000) повертає "Insufficient funds!"
 Виклик makeTransaction(8, 2000, 10000) повертає "Insufficient funds!"
-Виклик makeTransaction(10, 500, 5000) повертає "You ordered 10 droids worth 5000 credits!" -->
+Виклик makeTransaction(10, 500, 5000) повертає "You ordered 10 droids worth 5000 credits!"
 
-<!-- Задача 2. Форматування повідомлення
+Задача 2. Форматування повідомлення
 
 Виконуй це завдання у файлі task-2.js
 
@@ -94,9 +94,9 @@ console.log(formatMessage("Nunc sed turpis a felis in nunc fringilla", 41)); // 
 Виклик функції formatMessage("Vestibulum facilisis purus nec", 20) повертає "Vestibulum facilisis..."
 Виклик функції formatMessage("Vestibulum facilisis purus nec", 30) повертає "Vestibulum facilisis purus nec"
 Виклик функції formatMessage("Nunc sed turpis a felis in nunc fringilla", 15) повертає "Nunc sed turpis..."
-Виклик функції formatMessage("Nunc sed turpis a felis in nunc fringilla", 41) повертає "Nunc sed turpis a felis in nunc fringilla" -->
+Виклик функції formatMessage("Nunc sed turpis a felis in nunc fringilla", 41) повертає "Nunc sed turpis a felis in nunc fringilla"
 
-<!-- Задача 3. Перевірка спаму
+Задача 3. Перевірка спаму
 
 Виконуй це завдання у файлі task-3.js
 
@@ -128,7 +128,7 @@ console.log(checkForSpam("[SPAM] How to earn fast money?")); // true
 Виклик функції checkForSpam("Amazing SalE, only tonight!") повертає true
 Виклик функції checkForSpam("Trust me, this is not a spam message") повертає true
 Виклик функції checkForSpam("Get rid of sPaM emails. Our book in on sale!") повертає true
-Виклик функції checkForSpam("[SPAM] How to earn fast money?") повертає true -->
+Виклик функції checkForSpam("[SPAM] How to earn fast money?") повертає true
 
 Задача 4. Доставка товару
 
